@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=dificultad
+comment0.target=NaveAlienigena(int)
+comment1.params=
+comment1.target=int\ getVelocidad()
+comment2.params=
+comment2.target=void\ mover()
+numComments=3

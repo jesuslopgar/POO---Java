@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RType
+comment0.text=\r\n\ La\ clase\ \ Rtype\ es\ la\ clase\ que\ contiene\ el\ m\u00E9todo\ public\ static\ void\ main(String[]\ args).\r\n\ Ser\u00E1\ la\ clase\ encargada\ de\ lanzar\ el\ interface\ de\ usuario\ IGU.\r\n\ \r\n\ @author\ Jesus\ Lopez\ Garcia\ \r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=RType()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

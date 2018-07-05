@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KeyListener()
+comment1.params=avance
+comment1.target=KeyListener(int)
+comment2.params=
+comment2.target=int\ getDx()
+comment3.params=
+comment3.target=int\ getDy()
+comment4.params=
+comment4.target=int\ getEspacio()
+comment5.params=
+comment5.target=int\ getTecla()
+comment6.params=espacio
+comment6.target=void\ setEspacio(int)
+comment7.params=e
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyReleased(java.awt.event.KeyEvent)
+numComments=9

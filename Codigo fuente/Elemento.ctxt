@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Elemento()
+comment1.params=
+comment1.target=Imagen\ getImagen()
+comment2.params=
+comment2.target=Posicion\ getPosicion()
+comment3.params=ruta
+comment3.target=void\ setImagen(java.lang.String)
+comment4.params=estado
+comment4.target=void\ setVisible(boolean)
+comment5.params=
+comment5.target=boolean\ getVisible()
+comment6.params=
+comment6.target=int\ getLimiteDerecho()
+comment7.params=
+comment7.target=int\ getLimiteInferior()
+comment8.params=
+comment8.target=java.awt.Rectangle\ getBounds()
+comment9.params=
+comment9.target=void\ mover()
+numComments=10

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=centro
+comment0.target=NaveAliada(int)
+comment1.params=
+comment1.target=KeyListener\ getTeclado()
+comment2.params=
+comment2.target=java.util.ArrayList\ getDisparos()
+comment3.params=
+comment3.target=void\ disparar()
+comment4.params=
+comment4.target=void\ borrarDisparosActivos()
+comment5.params=
+comment5.target=void\ mover()
+numComments=6

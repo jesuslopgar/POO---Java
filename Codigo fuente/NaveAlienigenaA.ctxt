@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NaveAlienigenaA
+comment0.text=\r\n\ La\ clase\ NaveAlienigenaA\ extiende\ a\ la\ superclase\ NaveAlienigena,\ agregando\ las\ caracter\u00EDsticas\ \r\n\ que\ no\ estaban\ definidas\ en\ su\ superclase,\ como\ una\ imagen\ espec\u00EDfica\ para\ el\ tipo\ A,\ \r\n\ o\ la\ velocidad\ a\ la\ que\ debe\ moverse,\ que\ se\ le\ pasar\u00E1\ por\ par\u00E1metro\ en\ su\ constructor.\r\n\ \r\n\ @author\ Jesus\ Lopez\ Garcia\ \r\n\ @version\ 1.1\r\n
+comment1.params=dificultad
+comment1.target=NaveAlienigenaA(int)
+comment2.params=
+comment2.target=void\ mover()
+numComments=3

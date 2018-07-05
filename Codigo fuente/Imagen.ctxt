@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=ruta
+comment0.target=Imagen(java.lang.String)
+comment1.params=
+comment1.target=int\ getAncho()
+comment2.params=
+comment2.target=int\ getAlto()
+comment3.params=
+comment3.target=boolean\ getVisible()
+comment4.params=visible
+comment4.target=void\ setVisible(boolean)
+comment5.params=
+comment5.target=java.awt.Image\ getImage()
+numComments=6
